@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brunoesperanca.github.io/handbook-gm7f1t/sitemap.xml
